@@ -1,0 +1,63 @@
+body {
+    height: 100vh;
+    background-image:url(images/wallpaper.png);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: auto;
+    max-width: auto;    
+    }
+
+    .explofichier{
+        width: 50%;
+        height: 70%;
+        background-color: #242625;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -5%;
+    }
+
+    .rectangle{
+        width:100%;
+        height: 12%;
+        background-color:black;
+    }
+
+    .croix{
+        height: 30px;
+        width: 50px;
+    }
+
+    .rectangle2{
+        width:100%;
+        height: 8%;
+        background-color:rgb(25, 25, 25);        
+    }
+
+    .rectangle3{
+        width:22%;
+        height: 80%;
+        background-color:rgb(25, 25, 25);        
+    }
+
+
+    .navbar{
+        width: 100%;
+        height: 50px;
+        position: fixed;
+        bottom: 0;
+        background-color: #242625;
+  }
+
+    .logo2{
+        height: 73px;
+        margin-left: 17px;
+        margin-top: 10px;
+        background: #000;
+    }
+
+    .logo3{
+        height: 69px;
+        margin-left: 11px;
+        margin-top: 15px;
+    }
