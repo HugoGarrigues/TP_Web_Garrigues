@@ -51,5 +51,11 @@ body {
     }
 
     .texte{
-        color : rgba(232, 226, 226, 0.8)
+        color : rgba(232, 226, 226, 0.8);
+    }
+
+    .enigme{
+        color : rgba(232, 226, 226, 0.8);
+        margin-left: 1%;
+        line-height: 1.5;
     }

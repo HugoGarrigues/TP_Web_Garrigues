@@ -11,7 +11,7 @@ body {
     .explofichier{
         width: 50%;
         height: 70%;
-        background-color: #242625;
+        background-color:rgb(32, 32, 32); 
         margin-left: auto;
         margin-right: auto;
         margin-top: -5%;
@@ -27,19 +27,6 @@ body {
         height: 30px;
         width: 50px;
     }
-
-    .rectangle2{
-        width:100%;
-        height: 8%;
-        background-color:rgb(25, 25, 25);        
-    }
-
-    .rectangle3{
-        width:22%;
-        height: 80%;
-        background-color:rgb(25, 25, 25);        
-    }
-
 
     .navbar{
         width: 100%;
@@ -60,4 +47,8 @@ body {
         height: 69px;
         margin-left: 11px;
         margin-top: 15px;
+    }
+
+    .corbeille2{
+        margin-left: 6px;
     }
